@@ -22,8 +22,8 @@ when a player win the data will be added in their scrobe board.
 how score board look likes
 
 ```
-final List<int> scoreBoard = [];
+int userScoreBoard;
 ```
-add point to the currsponding player's scoreboard and calculate it and show it to the scoreboard
+add score to this instance, and when the instance reach point of three the reacher player will win
 
 
