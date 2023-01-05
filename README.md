@@ -19,12 +19,12 @@ if(computer.choice == user.choice){
 }
 ```
 when a player win the data will be added in their scrobe board.
-how score board look likes
+this is how score board look likes
 
 ```
 int userScoreBoard;
 int computerScoreBoard;
 ```
-add score to this instance, and when the instance reach point of three the reacher player will win
+score will be added to this instance, when one of this instance reach the point limit (3), that player will be the winner.
 
 
