@@ -23,6 +23,7 @@ how score board look likes
 
 ```
 int userScoreBoard;
+int computerScoreBoard;
 ```
 add score to this instance, and when the instance reach point of three the reacher player will win
 
